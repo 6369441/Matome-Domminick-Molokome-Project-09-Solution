@@ -1,1 +1,1 @@
-# Food-Sales-Forecasting-A-Performance-Investigation-of-Three-Machine-Learning-Algorithms
+Investigating the use of machine learning algorithms to forecast food sales. Algorithms in Gradientboost, Neural Networks and Multivariate Regression were used. 
