@@ -1,1 +1,1 @@
-Investigating the use of machine learning algorithms to forecast food sales. Algorithms in Gradientboost, Neural Networks and Multivariate Regression were used. 
+2022 Machine Learning Project ( Project 09)
